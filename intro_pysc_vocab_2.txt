@@ -1,0 +1,31 @@
+1.      Biopsychology - The perspective concerned with its biological and physiological aspects to explain behaviors. This branch examines how the brain, nervous system, neurotransmitters, and genetics influence our thoughts, feelings, and actions.
+2.      Central Nervous System - The main processing and control center of the body, consisting of the brain and the spinal cord. It is the command hub. It receives sensory information from the body, interprets it, and sends out instructions to control thoughts, emotions, movements, and behavior. 
+3.      Frontal Lobe - The largest region of the human brain's cerebral cortex, located directly behind the forehead, and is responsible for higher-level cognitive processes, voluntary movement, and emotional control.
+4.      Temporal Lobe -  Largely responsible for creating and preserving both conscious and long-term memory. It is responsible for processing hearing, language comprehension.
+5.      Occipital Lobe - Located in the rear most part of the brain. It is the smallest part and is responsible for processing, decoding, and interpreting visual information sent from the eyes.
+6.      Parietal Lobe - A major sensory processing hub for your brain. It processes information about temperature, taste, touch and movement
+7.      Lobotomy - A surgical procedure in which the nerve pathways in a lobe or lobes of the brain are severed from those in other areas.
+8.      Medulla - The most inferior (lowest) part of the brainstem that connects the brain to the spinal cord and controls vital autonomic, involuntary functions.
+9.     Pons - A structure in the lower brainstem that acts as a major relay station connecting the upper and lower parts of the brain and helping control sleep, arousal, and facial movement.
+10.    Reticular Formation - A net-like, interconnected core of nuclei and neurons running through the center of the brainstem—spanning the medulla, pons, and midbrain—that regulates vital arousal, sleep, and motor functions.
+11.    Thalamus - A small, egg-shaped structure located deep in the middle of the brain that acts as the body's central relay station and sensory filter.
+12.    Limbic System - A group of connected structures deep in the brain that controls emotions, memory, and basic survival drives. It is the emotional learning system.
+13.    Hippocampus - a seahorse-shaped structure located deep within the brain's temporal lobe that plays a central role in forming, organizing, and consolidating new declarative memories.
+14.    Amygdala - Almond shaped structures located in the brain acting as a core center for managing emotional responses such as fear, anger, and joy. This region plays a vital role in processing emotions and survival responses.
+15.    Hypothalamus - A small region at the base of the brain that acts as the main control center to keep the body's internal systems stable and balanced. It helps translate emotional experiences and primal drives into physical actions and hormonal responses.
+16.    Cerebrum - The largest and topmost part of the human brain, responsible for higher-level cognitive functions, sensory processing, and voluntary motor control..
+17.    Cerebrum Cortex - The outermost, wrinkly layer of the brain's cerebrum, composed primarily of unmyelinated gray matter responsible for higher-level psychological and cognitive functions.
+18.    Hemispheric Lateralization - The idea that both hemispheres are functionally different and that certain mental processes and behaviors are mainly controlled by one hemisphere rather than the other. 
+19.    Hormones -  Chemical messengers secreted by endocrine glands directly into the bloodstream to regulate bodily functions, behaviors, and moods.
+20.   Plasticity - The nervous system's capacity to change, adapt, and reorganize its structure and function throughout a person's life.
+21.   Stem Cells - Unspecialized human cells that can renew themselves through division and develop into many different specialized cell types to repair and maintain tissue
+22.   Neurogenesis - The biological process by which new neurons (nerve cells) are generated from neural stem cells and integrated into the central nervous system (CNS).
+23.   Reticular Activating System (RAS) - A specific functional subsystem located within the broader reticular formation of the brainstem. It’s a complex bundle of nerves in the brain that's responsible for regulating wakefulness and sleep-wake transitions.  
+24.   Genotype -  An individual's complete and unique set of inherited genetic material, coded in the chromosomes and fixed at conception.
+25.   Phenotype -  The observable expression of a person's physical, behavioral, and psychological traits, resulting from the interaction between their genetic makeup (genotype) and their environment.
+26.   Peripheral Nervous System - The portion of the nervous system that lies outside the brain and spinal cord. It is the vast network of nerves that connects your brain and spinal cord to the rest of your body.
+27.   Sympathetic Nervous System - A network of nerves that drives your body’s automatic "fight-or-flight" response during stressful or dangerous situations. 
+28.   Parasympathetic Nervous System - The part of your body's autonomic nervous system that controls relaxation, conserves energy, and slows down your heart rate. 
+29.   Somatic Nervous System - The part of the nervous system comprising the sensory and motor neurons that innervate the sense organs and the skeletal muscles, as opposed to the autonomic nervous system.
+30.   Autonomic Nervous System - The part of your nervous system that controls involuntary, automatic body functions like heart rate, digestion, and breathing without requiring conscious thought. 
+31. Neuron - Specialized nerve cells that form the fundamental building blocks of the brain and nervous system, responsible for receiving, processing, and transmitting information via electrical and chemical signals. 
